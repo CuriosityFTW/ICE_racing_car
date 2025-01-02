@@ -23,4 +23,8 @@ sprocket-chain drive of K4
 * Analyzed and selected deep groove ball bearings for interference-fitting application in the eccentric disks
 * Ran simulations in Optimum Lap for parametric optimization of the final drive ratio based on the comprehensive vehicle data
 
-![My Local Image](images/transmission_system.PNG)
+<img src="images/transmission_system.PNG"/>
+
+<p align="center">
+  <img src="images/half_shaft.PNG" alt="Half shaft">
+</p>
