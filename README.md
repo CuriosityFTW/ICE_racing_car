@@ -24,7 +24,9 @@ sprocket-chain drive of K4
 * Ran simulations in Optimum Lap for parametric optimization of the final drive ratio based on the comprehensive vehicle data
 
 <img src="images/transmission_system.PNG"/>
+<p align="center"><em>Figure 1: Transmission system.</em></p>
 
 <p align="center">
   <img src="images/half_shaft.PNG" alt="Half shaft">
 </p>
+<p align="center"><em>Figure 2: CV joint tripods.</em></p>
